@@ -111,3 +111,7 @@ select {
 .form-group {
   margin: 0 0 30px;
 }
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
